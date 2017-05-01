@@ -2,7 +2,7 @@
 
 ## Synopsis
 
-SlideJ is an ImageJ plugin for processing **digital slides** (also known as virtual slides, WSI, etc). It works by splitting the slide in square tiles and iterating a user-configurable macro on each of them.
+SlideJ is an ImageJ plugin for processing **digital slides** (also known as virtual slides, WSI, etc). SlideJ has been tested in the following formats: Aperio .SVS, Leica .SCN, Hamamatsu .NDPI, Mirax, Generic tiled TIFF and regular TIFF. It works by splitting the slide in square tiles and iterating a user-configurable macro on each of them. SlideJ allows the user to launch very long series of unsupervised tasks which can be performed in free time.
 
 ## Code Example
 
@@ -14,7 +14,7 @@ SlideJ was created to provide a common framework for rapid prototyping of image 
 
 ## Installation
 
-To install SlideJ, just put it in the Plugins folder of ImageJ. The only requirement is the Bio-Formats package. 
+To install SlideJ, just put it in the Plugins folder of ImageJ. The only requirement for the correct usage of SlideJ with ImageJ is the installation of Bio-Formats package and fiji-lib.jar in jars folder of ImageJ. 
 
 
 ## Tests
