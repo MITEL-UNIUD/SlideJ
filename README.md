@@ -9,7 +9,7 @@ SlideJ can be called directly from the ImageJ user interface, but as many other 
 
 ## Motivation
 
-SlideJ was created to provide a common framework for rapid prototyping of image processing and analysis of digital slides using ImageJ. It is based on Bio-Formats, which already provides digital slide access, but adds a layer of abstraction useful for many algorithms (though not all).
+SlideJ was created to provide a common framework for rapid prototyping of image processing and analysis of digital slides using ImageJ. It is based on Bio-Formats, which already provides digital slide access, but SlideJ adds a layer of abstraction useful for many algorithms (though not all).
 
 ## Installation
 
@@ -23,5 +23,4 @@ To test SlideJ, create a folder (e.g., "in") and put digital slides into it; cre
 
 ## License
 
-SLideJ is licensed under GPL. 
-
+SlideJ is licensed under GPL. 
