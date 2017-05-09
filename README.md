@@ -13,7 +13,7 @@ SlideJ was created to provide a common framework for rapid prototyping of image 
 
 ## Installation
 
-To install SlideJ, just put it in the Plugins folder of ImageJ. The only requirements are the Bio-Formats package and  fiji-lib.jar (put them in the jar folder of ImageJ, or directly use Fiji). 
+To install SlideJ, just put it in the Plugins folder of ImageJ. The only requirements are the [Bio-Formats](http://downloads.openmicroscopy.org/bio-formats/5.5.0/) package and  [fiji-lib.jar](https://mvnrepository.com/artifact/sc.fiji/fiji-lib) (put them in the jar folder of [ImageJ](https://imagej.nih.gov/ij/index.html), or directly use [Fiji](http://fiji.sc). 
 
 
 ## Tests
