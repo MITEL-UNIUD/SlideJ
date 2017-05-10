@@ -13,12 +13,20 @@ setBatchMode(true);
 
 in="/Users/enzo/Documents/lavori/AIDPATH/SlideJ/in/";
 out="/Users/enzo/Documents/lavori/AIDPATH/SlideJ/tiles/";
-callit="/Users/enzo/Documents/lavori/AIDPATH/SlideJ/github/SlideJdemo2.ijm";
+callit="/Users/enzo/Documents/lavori/AIDPATH/SlideJ/github/SlideJdemo0.ijm";
 
 addVariable("endtime",currentTime());
 setVariable("file","no");
 
+run("SlideJ ", "input="+in+" output="+out+" macro="+callit+" series=1 tile=8192 overlap=0 cancel=Yes");
+run("SlideJ ", "input="+in+" output="+out+" macro="+callit+" series=1 tile=16384 overlap=0 cancel=Yes");
 run("SlideJ ", "input="+in+" output="+out+" macro="+callit+" series=1 tile=4096 overlap=0 cancel=Yes");
+run("SlideJ ", "input="+in+" output="+out+" macro="+callit+" series=1 tile=12388 overlap=0 cancel=Yes");
+run("SlideJ ", "input="+in+" output="+out+" macro="+callit+" series=1 tile=6144 overlap=0 cancel=Yes");
+run("SlideJ ", "input="+in+" output="+out+" macro="+callit+" series=1 tile=14336 overlap=0 cancel=Yes");
+run("SlideJ ", "input="+in+" output="+out+" macro="+callit+" series=1 tile=10240 overlap=0 cancel=Yes");
+run("SlideJ ", "input="+in+" output="+out+" macro="+callit+" series=1 tile=3072 overlap=0 cancel=Yes");
+run("SlideJ ", "input="+in+" output="+out+" macro="+callit+" series=1 tile=2048 overlap=0 cancel=Yes");
 
 
 
