@@ -15,6 +15,11 @@ SlideJ was created to provide a common framework for rapid prototyping of image 
 
 To install SlideJ, just put it in the Plugins folder of ImageJ. The only requirements are the [Bio-Formats](http://downloads.openmicroscopy.org/bio-formats/5.5.0/) package and  [fiji-lib.jar](https://mvnrepository.com/artifact/sc.fiji/fiji-lib) (put them in the jar folder of [ImageJ](https://imagej.nih.gov/ij/index.html), or directly use [Fiji](http://fiji.sc). 
 
+## Instructions
+
+The interface of the plugin is a  dialog that resembles the one implemented in ImageJ for batch macro execution. The user is allowed to process multiple images present in a folder and store the eventual results in a different folder by setting up paths in the “Input…” and “Output…” fields, respectively. A macro selection button allows the user to choose the file containing the macro to be executed on the tiles. 
+Another parameter is aimed at setting the tile size according to user needs (typically depending on maximum memory available - the more the better, up to 16384 or so). In addition to that, another parameter defines the overlap between tiles, identical for X and Y directions (useful for some algorithms).
+The last parameter defines whether the tiles are deleted or not after each processing step. If not, they will be available after SlideJ run.
 
 ## Tests
 
