@@ -43,6 +43,7 @@ import fiji.util.gui.GenericDialogPlus;
     different folder by setting up paths in the “input” and “output” fields,respectively.
     Since digital slide processing could be a time consuming task, SlideJ allows the user to launch very 
     long series of unsupervised tasks which can be performed in free time.
+    SlideJ is released uner LGPL v3 License.
 */
 
 public class SlideJ_ implements PlugIn{
