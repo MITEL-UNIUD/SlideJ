@@ -20,6 +20,9 @@ To install SlideJ, just put it in the Plugins folder of ImageJ. The only require
 
 To test SlideJ, create a folder (e.g., "in") and put digital slides into it; create annother folder to storing tiles (e.g., "out"). Choose a macro you want to run on your slides. From the ImageJ Plugins menu, call the plugin, set parameters, and wait.
 
+## Contributors
+
+If you develop macros based on ImageJ that could be useful to the community, please feel free to upload them here, thanks.
 
 ## License
 
