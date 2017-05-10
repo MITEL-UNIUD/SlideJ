@@ -23,4 +23,4 @@ To test SlideJ, create a folder (e.g., "in") and put digital slides into it; cre
 
 ## License
 
-SlideJ is licensed under GPL. 
+SlideJ is licensed under [LGPL 3.0](https://opensource.org/licenses/LGPL-3.0). 
