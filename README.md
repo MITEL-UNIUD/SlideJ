@@ -21,7 +21,10 @@ The interface of the plugin is a  dialog that resembles the one implemented in I
 
 Another parameter is aimed at setting the tile size according to user needs (typically depending on maximum memory available - the more the better, up to 16384 or so). In addition to that, another parameter defines the overlap between tiles, identical for X and Y directions (useful for some algorithms).
 
-The last parameter defines whether the tiles are deleted or not after each processing step. If not, they will be available after SlideJ run.
+The last parameter defines whether the tiles are deleted or not after each processing step. If not, they will be available after SlideJ run. Tiles are stored in TIFF format with a file name that reflects their position on the overall digital slide according to the following template:
+
+* <OriginalFileName.ext>__<series>_<X origin>_<Y origin>.tif *
+
 
 ## Tests
 
