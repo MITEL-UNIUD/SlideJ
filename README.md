@@ -23,7 +23,7 @@ Another parameter is aimed at setting the tile size according to user needs (typ
 
 The last parameter defines whether the tiles are deleted or not after each processing step. If not, they will be available after SlideJ run. Tiles are stored in TIFF format with a file name that reflects their position on the overall digital slide according to the following template:
 
-*<OriginalFileName.ext>\_\_<series>\_<X origin>\_<Y origin>.tif*
+*OriginalFileName.ext\_\_series\_Xorigin\_Yorigin.tif*
 
 
 ## Tests
