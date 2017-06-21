@@ -11,6 +11,8 @@ SlideJ can be called directly from the ImageJ user interface, but as many other 
 
 SlideJ was created to provide a common framework for rapid prototyping of image processing and analysis of digital slides using ImageJ. It is based on Bio-Formats, which already provides digital slide access, but SlideJ adds a layer of abstraction useful for many algorithms (though not all).
 
+SlideJ has been developed with the partial support of the EU Marie Curie project [AIDPATH](http://aidpath.eu), grant no. 612471.
+
 ## Installation
 
 To install SlideJ, just put it in the Plugins folder of ImageJ. The only requirements are the [Bio-Formats](http://downloads.openmicroscopy.org/bio-formats/5.5.0/) package and  [fiji-lib.jar](https://mvnrepository.com/artifact/sc.fiji/fiji-lib) (put them in the jar folder of [ImageJ](https://imagej.nih.gov/ij/index.html), or directly use [Fiji](http://fiji.sc). 
