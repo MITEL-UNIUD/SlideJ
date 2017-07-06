@@ -41,3 +41,11 @@ If you develop macros based on ImageJ that could be useful to the community, ple
 ## License
 
 SlideJ is licensed under [LGPL 3.0](https://opensource.org/licenses/LGPL-3.0). 
+
+## Authors and citation
+
+SlideJ is developed by Giulia Lucrezia Baroni, Vincenzo Della Mea and David Pilutti at the Medical Informatics, Telemedicine and eHealth Lab, dept. of Mathematics, Computer Science and Physics, University of Udine, Italy.
+
+If you use it, please cite Slidej as: 
+
+*Della Mea V, Baroni GL, Pilutti D, Di Loreto C (2017) SlideJ: An ImageJ plugin for automated processing of whole slide images. PLoS ONE 12(7): e0180540.*
