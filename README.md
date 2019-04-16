@@ -15,7 +15,7 @@ SlideJ has been developed with the partial support of the EU Marie Curie project
 
 ## Installation
 
-To install SlideJ, just put it in the Plugins folder of ImageJ. The only requirements are the [Bio-Formats](http://downloads.openmicroscopy.org/bio-formats/5.5.0/) package and  [fiji-lib.jar](https://mvnrepository.com/artifact/sc.fiji/fiji-lib) (put them in the jar folder of [ImageJ](https://imagej.nih.gov/ij/index.html), or directly use [Fiji](http://fiji.sc). 
+To install SlideJ, just put it in the Plugins folder of ImageJ. The only requirements are the [Bio-Formats](http://downloads.openmicroscopy.org/bio-formats/5.5.0/) package and  [fiji-lib.jar](https://mvnrepository.com/artifact/sc.fiji/fiji-lib) (put them in the jar folder of [ImageJ](https://imagej.nih.gov/ij/index.html), or directly use [Fiji](http://fiji.sc).(For the latest new version of Fiji.app just put SlideJ_.jar in plugins folder, for previous versions of ImageJ put SlideJ_.class in plugins folder.)
 
 ## Instructions
 
