@@ -48,4 +48,4 @@ SlideJ is developed by Giulia Lucrezia Baroni, Vincenzo Della Mea and David Pilu
 
 If you use it, please cite Slidej as: 
 
-*Della Mea V, Baroni GL, Pilutti D, Di Loreto C (2017) SlideJ: An ImageJ plugin for automated processing of whole slide images. PLoS ONE 12(7): e0180540.*
+*[Della Mea V, Baroni GL, Pilutti D, Di Loreto C (2017) SlideJ: An ImageJ plugin for automated processing of whole slide images. PLoS ONE 12(7): e0180540.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0180540)*
