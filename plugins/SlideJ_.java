@@ -170,13 +170,13 @@ public void run(String arg) {
                     
                     for( int z = 0;z == 0; y_coor = y_coor + t - over) {
                         
-                       if((x_coor + t) > buffXTest)
+                       if((x_coor + t) >= buffXTest)
                        {
                            tilex = buffXTest - x_coor;
                            j = 1;
                        }
                         
-                        if((y_coor + t) > buffYTest)
+                        if((y_coor + t) >= buffYTest)
                         {
                             tiley = buffYTest - y_coor ;
                             z = 1;
